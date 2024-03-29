@@ -6,7 +6,7 @@
         
             <div class="basis-1/2">
                 <a href="index.html" >
-                        <img class="sm:w-1/2  mx-auto " src="/public/img/logo.png" alt="imagen logo">
+                        <img class="sm:w-1/2  mx-auto " src="https://github.com/jeison003/veterinariaRegistro/blob/main/public/img/logo.png?raw=true" alt="imagen logo">
                     </a>
             </div>
             <div class="basis-1/2">
