@@ -96,7 +96,7 @@
         :formulario="formulario"
       />
 
-      <div class="md:w-1/2 h-screen overflow-y-scroll ">
+      <div class="md:w-1/2 sm:h-screen overflow-y-scroll ">
         <h3 class="font-black text-3xl text-center">Administra tus pacientes</h3>
 
         <div v-if="pacientes.length >0">
